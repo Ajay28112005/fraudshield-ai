@@ -1,0 +1,8 @@
+venv/
+data/
+*.csv
+*.zip
+*.dylib
+__pycache__/
+*.pyc
+.env
